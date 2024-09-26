@@ -1,0 +1,47 @@
+footer {
+    background-color: rgb(27, 191, 218);
+    padding: 20px;
+}
+
+footer p {
+    color: white;
+    font-size: 20px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.mes {
+    position: fixed;
+    z-index: 99;
+    top: 300px;
+    right: 15px;
+    display: flex;
+    height: 30px;
+    font-size: 20px;
+}
+
+.mes-item1 a i {
+    font-size: 45px;
+}
+
+.mes-item2 {
+    margin-right: 10px;
+    width: 0;
+    overflow: hidden;
+    transition: width ease 1s;
+}
+
+.mes:hover div.mes-item2 {
+    width: 100%;
+}
+
+.contact-fd a {
+    margin: 5px;
+    font-size: 30px;
+}
+
+.ft-logo img {
+    border-radius: 50%;
+}

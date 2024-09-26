@@ -1,0 +1,87 @@
+.rm{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    max-width: 1000px;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 20px;
+   background-color: #fff;
+    padding: 50px;
+    border: 1px solid rgb(222, 22, 79);
+    border-radius: 10px;
+    box-shadow: 0 0 12px;
+}
+.rate-user{
+    max-width: 1000px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border: 1px solid rgb(95, 22, 222);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 9px;
+
+
+}
+
+.rate-user-table{
+    max-width: 1200px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border: 1px solid rgb(95, 22, 222);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 9px;
+   margin-bottom: 30px;
+
+}
+.rate-user1{
+    max-width: 400px;
+    margin-bottom: 10px;
+   font-size: 15px;
+   
+}
+.row-bt{
+    max-width: 80px;
+    border-radius: 25px;
+    
+}
+.col-avatar{
+    padding: 0;
+    margin-top: 20px;
+   
+   
+    display: flex;
+   
+}
+.big{
+    width: 1200px;
+   
+}
+
+.ra-cm{
+    border: 1px solid black;
+    border-radius: 35px;
+    background-color: rgb(242, 244, 246);
+   margin: 15px 0 15px 0;
+}
+
+.rating-bar-container {
+    width: 100%;
+    background-color: #f0f0f0; /* Màu nền của thanh load */
+    height: 15px; /* Độ cao của thanh load */
+    border-radius: 10px;
+    margin-top: 3px;
+  }
+  
+  .rating-bar {
+    height: 100%;
+    background-color: #d41111; /* Màu của thanh load */
+    border-radius: 10px;
+  }
+  .rate-percent{
+    font-size: 15px;
+   
+  }

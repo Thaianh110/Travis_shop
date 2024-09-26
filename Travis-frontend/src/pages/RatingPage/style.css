@@ -1,0 +1,28 @@
+.ratingcloser {
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    margin: 0;
+
+    &:hover {
+        color: red;
+    }
+}
+
+.ratingname {
+    font-weight: 500;
+}
+
+.rating {
+    text-align: center;
+}
+
+.ratingheader {
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.ratingimg img {
+    width: 60%;
+}
